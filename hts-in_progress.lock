@@ -1,0 +1,7 @@
+Mirror in progress since Sun, 04 May 2025 15:56:21 .. please wait!
+httrack https://tis.edu.vn/ -O ./example-site 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=76479
+UID=501
+GID=501
+START=1746348981

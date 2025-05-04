@@ -1,0 +1,455 @@
+HTTrack3.49-2 launched on Sun, 04 May 2025 15:56:21 at https://tis.edu.vn/
+(httrack https://tis.edu.vn/ -O ./example-site )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:56:23	Warning: 	Note: due to https://tis.edu.vn remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:00:33	Warning: 	Found for https://tis.edu.vn/vi/
+16:00:33	Warning: 	File has moved from https://tis.edu.vn/vi/ to https://tis.edu.vn/
+16:02:57	Warning: 	Found for https://tis.edu.vn/chuong-trinh-tu-tai-my-tai-tis/
+16:02:57	Warning: 	File has moved from https://tis.edu.vn/chuong-trinh-tu-tai-my-tai-tis/ to https://tis.edu.vn/en/chuong-trinh-tu-tai-my-tai-tis/
+16:10:16	Warning: 	Found for https://tis.edu.vn/khao-sat-phu-huynh/
+16:10:16	Warning: 	File has moved from https://tis.edu.vn/khao-sat-phu-huynh/ to https://tis.edu.vn/en/khao-sat-phu-huynh/
+16:15:00	Error: 	"Not Found" (404) at link https://tis.edu.vn/https:/tis.edu.vn/wp-content/uploads/2025/01/4.png (from https://tis.edu.vn/)
+16:15:00	Error: 	"Not Found" (404) at link https://tis.edu.vn/https:/tis.edu.vn/wp-content/uploads/2025/01/3.png (from https://tis.edu.vn/)
+16:15:00	Error: 	"Not Found" (404) at link https://tis.edu.vn/https:/tis.edu.vn/wp-content/uploads/2025/01/2.png (from https://tis.edu.vn/)
+16:15:00	Error: 	"Not Found" (404) at link https://tis.edu.vn/https:/tis.edu.vn/wp-content/uploads/2025/01/1.png (from https://tis.edu.vn/)
+16:16:52	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/tuyensinh/ (from https://tis.edu.vn/en/)
+16:20:43	Warning: 	Found for https://tis.edu.vn/?p=3007
+16:20:43	Warning: 	File has moved from https://tis.edu.vn/?p=3007 to https://tis.edu.vn/en/?p=3007
+16:20:43	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fgioi-thieu-the-international-school-truong-quoc-te-tis%2F (from https://tis.edu.vn/gioi-thieu-the-international-school-truong-quoc-te-tis/)
+16:20:43	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fgioi-thieu-the-international-school-truong-quoc-te-tis%2F&format=xml (from https://tis.edu.vn/gioi-thieu-the-international-school-truong-quoc-te-tis/)
+16:20:43	Warning: 	Found for https://tis.edu.vn/vi/gioi-thieu-the-international-school-truong-quoc-te-tis/
+16:20:43	Warning: 	File has moved from https://tis.edu.vn/vi/gioi-thieu-the-international-school-truong-quoc-te-tis/ to https://tis.edu.vn/gioi-thieu-the-international-school-truong-quoc-te-tis/
+16:20:43	Warning: 	Found for https://tis.edu.vn/?p=3026
+16:20:43	Warning: 	File has moved from https://tis.edu.vn/?p=3026 to https://tis.edu.vn/en/?p=3026
+16:20:43	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fsu-menh-tam-nhin%2F (from https://tis.edu.vn/su-menh-tam-nhin/)
+16:20:43	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fsu-menh-tam-nhin%2F&format=xml (from https://tis.edu.vn/su-menh-tam-nhin/)
+16:20:43	Warning: 	Found for https://tis.edu.vn/vi/su-menh-tam-nhin/
+16:20:43	Warning: 	File has moved from https://tis.edu.vn/vi/su-menh-tam-nhin/ to https://tis.edu.vn/su-menh-tam-nhin/
+16:20:43	Warning: 	Found for https://tis.edu.vn/?p=57005
+16:20:43	Warning: 	File has moved from https://tis.edu.vn/?p=57005 to https://tis.edu.vn/en/?p=57005
+16:20:43	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fgia-tri-cot-loi%2F (from https://tis.edu.vn/gia-tri-cot-loi/)
+16:20:43	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fgia-tri-cot-loi%2F&format=xml (from https://tis.edu.vn/gia-tri-cot-loi/)
+16:20:43	Warning: 	Found for https://tis.edu.vn/vi/gia-tri-cot-loi/
+16:20:43	Warning: 	File has moved from https://tis.edu.vn/vi/gia-tri-cot-loi/ to https://tis.edu.vn/gia-tri-cot-loi/
+16:20:45	Warning: 	Found for https://tis.edu.vn/?p=57777
+16:20:45	Warning: 	File has moved from https://tis.edu.vn/?p=57777 to https://tis.edu.vn/en/?p=57777
+16:20:45	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-hoc%2F (from https://tis.edu.vn/chuong-trinh-hoc/)
+16:20:45	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-hoc%2F&format=xml (from https://tis.edu.vn/chuong-trinh-hoc/)
+16:20:45	Warning: 	Found for https://tis.edu.vn/vi/chuong-trinh-hoc/
+16:20:45	Warning: 	File has moved from https://tis.edu.vn/vi/chuong-trinh-hoc/ to https://tis.edu.vn/chuong-trinh-hoc/
+16:20:46	Warning: 	Found for https://tis.edu.vn/?p=3077
+16:20:46	Warning: 	File has moved from https://tis.edu.vn/?p=3077 to https://tis.edu.vn/en/?p=3077
+16:20:46	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-lop-pre%2F (from https://tis.edu.vn/chuong-trinh-lop-pre/)
+16:20:46	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-lop-pre%2F&format=xml (from https://tis.edu.vn/chuong-trinh-lop-pre/)
+16:20:46	Warning: 	Found for https://tis.edu.vn/vi/chuong-trinh-lop-pre/
+16:20:46	Warning: 	File has moved from https://tis.edu.vn/vi/chuong-trinh-lop-pre/ to https://tis.edu.vn/chuong-trinh-lop-pre/
+16:20:48	Warning: 	Found for https://tis.edu.vn/?p=3079
+16:20:48	Warning: 	File has moved from https://tis.edu.vn/?p=3079 to https://tis.edu.vn/en/?p=3079
+16:20:48	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-tieu-hoc%2F (from https://tis.edu.vn/chuong-trinh-tieu-hoc/)
+16:20:48	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-tieu-hoc%2F&format=xml (from https://tis.edu.vn/chuong-trinh-tieu-hoc/)
+16:20:48	Warning: 	Found for https://tis.edu.vn/vi/chuong-trinh-tieu-hoc/
+16:20:48	Warning: 	File has moved from https://tis.edu.vn/vi/chuong-trinh-tieu-hoc/ to https://tis.edu.vn/chuong-trinh-tieu-hoc/
+16:20:53	Warning: 	Found for https://tis.edu.vn/?p=3081
+16:20:53	Warning: 	File has moved from https://tis.edu.vn/?p=3081 to https://tis.edu.vn/en/?p=3081
+16:20:53	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-trung-hoc-co-so%2F (from https://tis.edu.vn/chuong-trinh-trung-hoc-co-so/)
+16:20:53	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-trung-hoc-co-so%2F&format=xml (from https://tis.edu.vn/chuong-trinh-trung-hoc-co-so/)
+16:20:53	Warning: 	Found for https://tis.edu.vn/vi/chuong-trinh-trung-hoc-co-so/
+16:20:53	Warning: 	File has moved from https://tis.edu.vn/vi/chuong-trinh-trung-hoc-co-so/ to https://tis.edu.vn/chuong-trinh-trung-hoc-co-so/
+16:20:56	Warning: 	Found for https://tis.edu.vn/?p=3083
+16:20:56	Warning: 	File has moved from https://tis.edu.vn/?p=3083 to https://tis.edu.vn/en/?p=3083
+16:20:56	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-trung-hoc-pho-thong%2F (from https://tis.edu.vn/chuong-trinh-trung-hoc-pho-thong/)
+16:20:56	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuong-trinh-trung-hoc-pho-thong%2F&format=xml (from https://tis.edu.vn/chuong-trinh-trung-hoc-pho-thong/)
+16:20:56	Warning: 	Found for https://tis.edu.vn/vi/chuong-trinh-trung-hoc-pho-thong/
+16:20:56	Warning: 	File has moved from https://tis.edu.vn/vi/chuong-trinh-trung-hoc-pho-thong/ to https://tis.edu.vn/chuong-trinh-trung-hoc-pho-thong/
+16:20:57	Warning: 	Found for https://tis.edu.vn/?p=56848
+16:20:57	Warning: 	File has moved from https://tis.edu.vn/?p=56848 to https://tis.edu.vn/en/?p=56848
+16:20:57	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoat-dong-ngoai-khoa%2F (from https://tis.edu.vn/hoat-dong-ngoai-khoa/)
+16:20:57	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoat-dong-ngoai-khoa%2F&format=xml (from https://tis.edu.vn/hoat-dong-ngoai-khoa/)
+16:20:57	Warning: 	Found for https://tis.edu.vn/vi/hoat-dong-ngoai-khoa/
+16:20:57	Warning: 	File has moved from https://tis.edu.vn/vi/hoat-dong-ngoai-khoa/ to https://tis.edu.vn/hoat-dong-ngoai-khoa/
+16:20:59	Warning: 	Found for https://tis.edu.vn/?p=58706
+16:20:59	Warning: 	File has moved from https://tis.edu.vn/?p=58706 to https://tis.edu.vn/en/?p=58706
+16:20:59	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fsummer-camp%2F (from https://tis.edu.vn/summer-camp/)
+16:20:59	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fsummer-camp%2F&format=xml (from https://tis.edu.vn/summer-camp/)
+16:20:59	Warning: 	Found for https://tis.edu.vn/vi/summer-camp/
+16:20:59	Warning: 	File has moved from https://tis.edu.vn/vi/summer-camp/ to https://tis.edu.vn/summer-camp/
+16:20:59	Warning: 	Moved Permanently for https://tis.edu.vn/?p=3117
+16:20:59	Warning: 	File has moved from https://tis.edu.vn/?p=3117 to https://tis.edu.vn/quy-trinh-tuyen-sinh/
+16:20:59	Warning: 	Found for https://tis.edu.vn/vi/quy-trinh-tuyen-sinh/
+16:20:59	Warning: 	File has moved from https://tis.edu.vn/vi/quy-trinh-tuyen-sinh/ to https://tis.edu.vn/quy-trinh-tuyen-sinh/
+16:20:59	Warning: 	Found for https://tis.edu.vn/?p=3123
+16:20:59	Warning: 	File has moved from https://tis.edu.vn/?p=3123 to https://tis.edu.vn/en/?p=3123
+16:20:59	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchinh-sach-hoc-phi%2F (from https://tis.edu.vn/chinh-sach-hoc-phi/)
+16:20:59	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchinh-sach-hoc-phi%2F&format=xml (from https://tis.edu.vn/chinh-sach-hoc-phi/)
+16:20:59	Warning: 	Found for https://tis.edu.vn/vi/chinh-sach-hoc-phi/
+16:20:59	Warning: 	File has moved from https://tis.edu.vn/vi/chinh-sach-hoc-phi/ to https://tis.edu.vn/chinh-sach-hoc-phi/
+16:20:59	Error: 	"Method Not Allowed" (405) at link https://tis.edu.vn/tuyensinh/xmlrpc.php (from https://tis.edu.vn/tuyensinh/)
+16:21:19	Warning: 	Found for https://tis.edu.vn/?p=60571
+16:21:19	Warning: 	File has moved from https://tis.edu.vn/?p=60571 to https://tis.edu.vn/en/?p=60571
+16:21:19	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoc-bong%2F (from https://tis.edu.vn/hoc-bong/)
+16:21:19	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoc-bong%2F&format=xml (from https://tis.edu.vn/hoc-bong/)
+16:21:26	Warning: 	Found for https://tis.edu.vn/vi/hoc-bong/
+16:21:26	Warning: 	File has moved from https://tis.edu.vn/vi/hoc-bong/ to https://tis.edu.vn/hoc-bong/
+16:21:34	Warning: 	Found for https://tis.edu.vn/?p=3188
+16:21:34	Warning: 	File has moved from https://tis.edu.vn/?p=3188 to https://tis.edu.vn/en/?p=3188
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fnoi-tru%2F (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fnoi-tru%2F&format=xml (from https://tis.edu.vn/noi-tru/)
+16:21:34	Warning: 	Found for https://tis.edu.vn/vi/noi-tru/
+16:21:34	Warning: 	File has moved from https://tis.edu.vn/vi/noi-tru/ to https://tis.edu.vn/noi-tru/
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-253.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-241.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-210.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-212.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-211.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-254.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-199.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-192.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-193.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Group-195.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/Frame-100.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/fiona.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/bella.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/CMHS.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/4.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/1-2.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/3.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Error: 	"Not Found" (404) at link https://tis.edu.vn/noi-tru/https:/tis.edu.vn/wp-content/uploads/2025/04/2-1.png (from https://tis.edu.vn/noi-tru/)
+16:21:34	Warning: 	Moved Permanently for https://tis.edu.vn/?p=56755
+16:21:34	Warning: 	File has moved from https://tis.edu.vn/?p=56755 to https://tis.edu.vn/gioi-thieu-ocl/
+16:21:34	Warning: 	Found for https://tis.edu.vn/vi/gioi-thieu-ocl/
+16:21:34	Warning: 	File has moved from https://tis.edu.vn/vi/gioi-thieu-ocl/ to https://tis.edu.vn/gioi-thieu-ocl/
+16:21:35	Warning: 	Found for https://tis.edu.vn/?p=56872
+16:21:35	Warning: 	File has moved from https://tis.edu.vn/?p=56872 to https://tis.edu.vn/en/?p=56872
+16:21:35	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fstudent-council-2%2F (from https://tis.edu.vn/student-council-2/)
+16:21:35	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fstudent-council-2%2F&format=xml (from https://tis.edu.vn/student-council-2/)
+16:21:35	Warning: 	Found for https://tis.edu.vn/vi/student-council-2/
+16:21:35	Warning: 	File has moved from https://tis.edu.vn/vi/student-council-2/ to https://tis.edu.vn/student-council-2/
+16:21:36	Warning: 	Found for https://tis.edu.vn/?p=56877
+16:21:36	Warning: 	File has moved from https://tis.edu.vn/?p=56877 to https://tis.edu.vn/en/?p=56877
+16:21:36	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fcau-lac-bo%2F (from https://tis.edu.vn/cau-lac-bo/)
+16:21:36	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fcau-lac-bo%2F&format=xml (from https://tis.edu.vn/cau-lac-bo/)
+16:21:36	Warning: 	Found for https://tis.edu.vn/vi/cau-lac-bo/
+16:21:36	Warning: 	File has moved from https://tis.edu.vn/vi/cau-lac-bo/ to https://tis.edu.vn/cau-lac-bo/
+16:21:36	Warning: 	Found for https://tis.edu.vn/?p=56890
+16:21:36	Warning: 	File has moved from https://tis.edu.vn/?p=56890 to https://tis.edu.vn/en/?p=56890
+16:21:36	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchan-dung-tisers%2F (from https://tis.edu.vn/chan-dung-tisers/)
+16:21:36	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchan-dung-tisers%2F&format=xml (from https://tis.edu.vn/chan-dung-tisers/)
+16:21:36	Warning: 	Found for https://tis.edu.vn/vi/chan-dung-tisers/
+16:21:36	Warning: 	File has moved from https://tis.edu.vn/vi/chan-dung-tisers/ to https://tis.edu.vn/chan-dung-tisers/
+16:21:36	Warning: 	Found for https://tis.edu.vn/category/tin-tuc/page/2/
+16:21:36	Warning: 	File has moved from https://tis.edu.vn/category/tin-tuc/page/2/ to https://tis.edu.vn/en/category/tin-tuc/page/2/
+16:21:36	Warning: 	Found for https://tis.edu.vn/category/tin-tuc/feed/
+16:21:36	Warning: 	File has moved from https://tis.edu.vn/category/tin-tuc/feed/ to https://tis.edu.vn/en/category/tin-tuc/feed/
+16:21:36	Warning: 	Found for https://tis.edu.vn/vi/category/tin-tuc/
+16:21:36	Warning: 	File has moved from https://tis.edu.vn/vi/category/tin-tuc/ to https://tis.edu.vn/category/tin-tuc/
+16:23:07	Warning: 	Found for https://tis.edu.vn/category/su-kien-tai-tis/page/2/
+16:23:07	Warning: 	File has moved from https://tis.edu.vn/category/su-kien-tai-tis/page/2/ to https://tis.edu.vn/en/category/su-kien-tai-tis/page/2/
+16:23:08	Warning: 	Found for https://tis.edu.vn/category/su-kien-tai-tis/feed/
+16:23:08	Warning: 	File has moved from https://tis.edu.vn/category/su-kien-tai-tis/feed/ to https://tis.edu.vn/en/category/su-kien-tai-tis/feed/
+16:23:11	Warning: 	Found for https://tis.edu.vn/vi/category/su-kien-tai-tis/
+16:23:11	Warning: 	File has moved from https://tis.edu.vn/vi/category/su-kien-tai-tis/ to https://tis.edu.vn/category/su-kien-tai-tis/
+16:23:11	Warning: 	Found for https://tis.edu.vn/ngay-hoi-trai-nghiem-tai-tis-gieo-mam-sang-tao-trao-me-yeu-thuong/
+16:23:11	Warning: 	File has moved from https://tis.edu.vn/ngay-hoi-trai-nghiem-tai-tis-gieo-mam-sang-tao-trao-me-yeu-thuong/ to https://tis.edu.vn/en/ngay-hoi-trai-nghiem-tai-tis-gieo-mam-sang-tao-trao-me-yeu-thuong/
+16:24:53	Warning: 	Found for https://tis.edu.vn/?p=3177
+16:24:53	Warning: 	File has moved from https://tis.edu.vn/?p=3177 to https://tis.edu.vn/en/?p=3177
+16:24:53	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fthuc-don-mon-an%2F (from https://tis.edu.vn/thuc-don-mon-an/)
+16:24:53	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fthuc-don-mon-an%2F&format=xml (from https://tis.edu.vn/thuc-don-mon-an/)
+16:24:53	Warning: 	Found for https://tis.edu.vn/vi/thuc-don-mon-an/
+16:24:53	Warning: 	File has moved from https://tis.edu.vn/vi/thuc-don-mon-an/ to https://tis.edu.vn/thuc-don-mon-an/
+16:24:59	Warning: 	Found for https://tis.edu.vn/?p=3128
+16:24:59	Warning: 	File has moved from https://tis.edu.vn/?p=3128 to https://tis.edu.vn/en/?p=3128
+16:24:59	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Flich-nam-hoc-tis%2F (from https://tis.edu.vn/lich-nam-hoc-tis/)
+16:24:59	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Flich-nam-hoc-tis%2F&format=xml (from https://tis.edu.vn/lich-nam-hoc-tis/)
+16:24:59	Warning: 	Found for https://tis.edu.vn/vi/lich-nam-hoc-tis/
+16:24:59	Warning: 	File has moved from https://tis.edu.vn/vi/lich-nam-hoc-tis/ to https://tis.edu.vn/lich-nam-hoc-tis/
+16:24:59	Warning: 	Found for https://tis.edu.vn/?p=8
+16:24:59	Warning: 	File has moved from https://tis.edu.vn/?p=8 to https://tis.edu.vn/en/?p=8
+16:24:59	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Flien-he%2F (from https://tis.edu.vn/lien-he/)
+16:24:59	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Flien-he%2F&format=xml (from https://tis.edu.vn/lien-he/)
+16:24:59	Warning: 	Found for https://tis.edu.vn/vi/lien-he/
+16:24:59	Warning: 	File has moved from https://tis.edu.vn/vi/lien-he/ to https://tis.edu.vn/lien-he/
+16:24:59	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57520
+16:24:59	Warning: 	File has moved from https://tis.edu.vn/en/?p=57520 to https://tis.edu.vn/en/vuon-ra-bien-lon/
+16:24:59	Warning: 	Found for https://tis.edu.vn/vi/vuon-ra-bien-lon/
+16:24:59	Warning: 	File has moved from https://tis.edu.vn/vi/vuon-ra-bien-lon/ to https://tis.edu.vn/vuon-ra-bien-lon/
+16:26:14	Warning: 	Found for https://tis.edu.vn/?p=3197
+16:26:14	Warning: 	File has moved from https://tis.edu.vn/?p=3197 to https://tis.edu.vn/en/?p=3197
+16:26:14	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fphu-huynh%2F (from https://tis.edu.vn/phu-huynh/)
+16:26:14	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fphu-huynh%2F&format=xml (from https://tis.edu.vn/phu-huynh/)
+16:26:14	Warning: 	Found for https://tis.edu.vn/vi/phu-huynh/
+16:26:14	Warning: 	File has moved from https://tis.edu.vn/vi/phu-huynh/ to https://tis.edu.vn/phu-huynh/
+16:26:14	Warning: 	Found for https://tis.edu.vn/hoc-bong-tai-nang-toa-sang-tu-tai-my/feed/
+16:26:14	Warning: 	File has moved from https://tis.edu.vn/hoc-bong-tai-nang-toa-sang-tu-tai-my/feed/ to https://tis.edu.vn/en/hoc-bong-tai-nang-toa-sang-tu-tai-my/feed/
+16:26:15	Warning: 	Found for https://tis.edu.vn/?p=60003
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/?p=60003 to https://tis.edu.vn/en/?p=60003
+16:26:15	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoc-bong-tai-nang-toa-sang-tu-tai-my%2F (from https://tis.edu.vn/hoc-bong-tai-nang-toa-sang-tu-tai-my/)
+16:26:15	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoc-bong-tai-nang-toa-sang-tu-tai-my%2F&format=xml (from https://tis.edu.vn/hoc-bong-tai-nang-toa-sang-tu-tai-my/)
+16:26:15	Warning: 	Found for https://tis.edu.vn/vi/hoc-bong-tai-nang-toa-sang-tu-tai-my/
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/vi/hoc-bong-tai-nang-toa-sang-tu-tai-my/ to https://tis.edu.vn/hoc-bong-tai-nang-toa-sang-tu-tai-my/
+16:26:15	Error: 	"Method Not Allowed" (405) at link https://tis.edu.vn/xmlrpc.php (from https://tis.edu.vn/hoc-bong-tai-nang-toa-sang-tu-tai-my/)
+16:26:15	Warning: 	Found for https://tis.edu.vn/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/feed/
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/feed/ to https://tis.edu.vn/en/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/feed/
+16:26:15	Warning: 	Found for https://tis.edu.vn/?p=57992
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/?p=57992 to https://tis.edu.vn/en/?p=57992
+16:26:15	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fnhin-lai-hanh-trinh-immersion-trip-cua-tisers%2F (from https://tis.edu.vn/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/)
+16:26:15	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fnhin-lai-hanh-trinh-immersion-trip-cua-tisers%2F&format=xml (from https://tis.edu.vn/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/)
+16:26:15	Warning: 	Found for https://tis.edu.vn/vi/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/vi/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/ to https://tis.edu.vn/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/
+16:26:15	Warning: 	Found for https://tis.edu.vn/?p=57730
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/?p=57730 to https://tis.edu.vn/en/?p=57730
+16:26:15	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fve-noi-ghi-dau-lich-su-kinh-thanh-hue-mot-hanh-trinh-kham-pha-va-hoc-hoi%2F (from https://tis.edu.vn/ve-noi-ghi-dau-lich-su-kinh-thanh-hue-mot-hanh-trinh-kham-pha-va-hoc-hoi/)
+16:26:15	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fve-noi-ghi-dau-lich-su-kinh-thanh-hue-mot-hanh-trinh-kham-pha-va-hoc-hoi%2F&format=xml (from https://tis.edu.vn/ve-noi-ghi-dau-lich-su-kinh-thanh-hue-mot-hanh-trinh-kham-pha-va-hoc-hoi/)
+16:26:15	Warning: 	Found for https://tis.edu.vn/vi/ve-noi-ghi-dau-lich-su-kinh-thanh-hue-mot-hanh-trinh-kham-pha-va-hoc-hoi/
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/vi/ve-noi-ghi-dau-lich-su-kinh-thanh-hue-mot-hanh-trinh-kham-pha-va-hoc-hoi/ to https://tis.edu.vn/ve-noi-ghi-dau-lich-su-kinh-thanh-hue-mot-hanh-trinh-kham-pha-va-hoc-hoi/
+16:26:15	Warning: 	Found for https://tis.edu.vn/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/feed/
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/feed/ to https://tis.edu.vn/en/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/feed/
+16:26:15	Warning: 	Found for https://tis.edu.vn/?p=57720
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/?p=57720 to https://tis.edu.vn/en/?p=57720
+16:26:15	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Ftrai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025%2F (from https://tis.edu.vn/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/)
+16:26:15	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Ftrai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025%2F&format=xml (from https://tis.edu.vn/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/)
+16:26:15	Warning: 	Found for https://tis.edu.vn/vi/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/
+16:26:15	Warning: 	File has moved from https://tis.edu.vn/vi/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/ to https://tis.edu.vn/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/
+16:26:21	Warning: 	Found for https://tis.edu.vn/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/feed/
+16:26:21	Warning: 	File has moved from https://tis.edu.vn/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/feed/ to https://tis.edu.vn/en/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/feed/
+16:26:21	Warning: 	Found for https://tis.edu.vn/?p=57604
+16:26:21	Warning: 	File has moved from https://tis.edu.vn/?p=57604 to https://tis.edu.vn/en/?p=57604
+16:26:21	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky%2F (from https://tis.edu.vn/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/)
+16:26:21	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky%2F&format=xml (from https://tis.edu.vn/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/)
+16:26:21	Warning: 	Found for https://tis.edu.vn/vi/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/
+16:26:21	Warning: 	File has moved from https://tis.edu.vn/vi/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/ to https://tis.edu.vn/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/
+16:26:22	Warning: 	Found for https://tis.edu.vn/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/feed/
+16:26:22	Warning: 	File has moved from https://tis.edu.vn/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/feed/ to https://tis.edu.vn/en/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/feed/
+16:26:22	Warning: 	Found for https://tis.edu.vn/?p=57587
+16:26:22	Warning: 	File has moved from https://tis.edu.vn/?p=57587 to https://tis.edu.vn/en/?p=57587
+16:26:22	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fsan-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc%2F (from https://tis.edu.vn/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/)
+16:26:22	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fsan-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc%2F&format=xml (from https://tis.edu.vn/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/)
+16:26:22	Warning: 	Found for https://tis.edu.vn/vi/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/
+16:26:22	Warning: 	File has moved from https://tis.edu.vn/vi/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/ to https://tis.edu.vn/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/
+16:26:23	Warning: 	Found for https://tis.edu.vn/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/feed/
+16:26:23	Warning: 	File has moved from https://tis.edu.vn/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/feed/ to https://tis.edu.vn/en/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/feed/
+16:26:23	Warning: 	Found for https://tis.edu.vn/?p=57579
+16:26:23	Warning: 	File has moved from https://tis.edu.vn/?p=57579 to https://tis.edu.vn/en/?p=57579
+16:26:23	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Ftro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan%2F (from https://tis.edu.vn/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/)
+16:26:23	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Ftro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan%2F&format=xml (from https://tis.edu.vn/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/)
+16:26:23	Warning: 	Found for https://tis.edu.vn/vi/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/
+16:26:23	Warning: 	File has moved from https://tis.edu.vn/vi/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/ to https://tis.edu.vn/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/
+16:26:24	Warning: 	Found for https://tis.edu.vn/ngay-hoi-kick-off-tis-summer-camp-2025/feed/
+16:26:24	Warning: 	File has moved from https://tis.edu.vn/ngay-hoi-kick-off-tis-summer-camp-2025/feed/ to https://tis.edu.vn/en/ngay-hoi-kick-off-tis-summer-camp-2025/feed/
+16:26:24	Warning: 	Found for https://tis.edu.vn/?p=57563
+16:26:24	Warning: 	File has moved from https://tis.edu.vn/?p=57563 to https://tis.edu.vn/en/?p=57563
+16:26:24	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fngay-hoi-kick-off-tis-summer-camp-2025%2F (from https://tis.edu.vn/ngay-hoi-kick-off-tis-summer-camp-2025/)
+16:26:24	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fngay-hoi-kick-off-tis-summer-camp-2025%2F&format=xml (from https://tis.edu.vn/ngay-hoi-kick-off-tis-summer-camp-2025/)
+16:26:24	Warning: 	Found for https://tis.edu.vn/vi/ngay-hoi-kick-off-tis-summer-camp-2025/
+16:26:24	Warning: 	File has moved from https://tis.edu.vn/vi/ngay-hoi-kick-off-tis-summer-camp-2025/ to https://tis.edu.vn/ngay-hoi-kick-off-tis-summer-camp-2025/
+16:27:22	Warning: 	Found for https://tis.edu.vn/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/feed/
+16:27:22	Warning: 	File has moved from https://tis.edu.vn/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/feed/ to https://tis.edu.vn/en/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/feed/
+16:27:22	Warning: 	Found for https://tis.edu.vn/?p=57543
+16:27:22	Warning: 	File has moved from https://tis.edu.vn/?p=57543 to https://tis.edu.vn/en/?p=57543
+16:27:22	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Ftis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh%2F (from https://tis.edu.vn/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/)
+16:27:22	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Ftis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh%2F&format=xml (from https://tis.edu.vn/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/)
+16:27:22	Warning: 	Found for https://tis.edu.vn/vi/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/
+16:27:22	Warning: 	File has moved from https://tis.edu.vn/vi/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/ to https://tis.edu.vn/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/
+16:27:24	Warning: 	File not parsed, looks like binary: https://tis.edu.vn/wp-content/plugins/revslider/public/assets/css/openhand.cur
+16:27:24	Warning: 	File not parsed, looks like binary: https://tis.edu.vn/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+16:27:24	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3007
+16:27:24	Warning: 	File has moved from https://tis.edu.vn/en/?p=3007 to https://tis.edu.vn/en/gioi-thieu-the-international-school-truong-quoc-te-tis/
+16:27:24	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3026
+16:27:24	Warning: 	File has moved from https://tis.edu.vn/en/?p=3026 to https://tis.edu.vn/en/su-menh-tam-nhin/
+16:27:24	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57005
+16:27:24	Warning: 	File has moved from https://tis.edu.vn/en/?p=57005 to https://tis.edu.vn/en/gia-tri-cot-loi/
+16:27:24	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57777
+16:27:24	Warning: 	File has moved from https://tis.edu.vn/en/?p=57777 to https://tis.edu.vn/en/chuong-trinh-hoc/
+16:27:24	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3077
+16:27:24	Warning: 	File has moved from https://tis.edu.vn/en/?p=3077 to https://tis.edu.vn/en/chuong-trinh-lop-pre/
+16:27:24	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3079
+16:27:24	Warning: 	File has moved from https://tis.edu.vn/en/?p=3079 to https://tis.edu.vn/en/chuong-trinh-tieu-hoc/
+16:27:24	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3081
+16:27:24	Warning: 	File has moved from https://tis.edu.vn/en/?p=3081 to https://tis.edu.vn/en/chuong-trinh-trung-hoc-co-so/
+16:27:24	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3083
+16:27:24	Warning: 	File has moved from https://tis.edu.vn/en/?p=3083 to https://tis.edu.vn/en/chuong-trinh-trung-hoc-pho-thong/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=53208
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=53208 to https://tis.edu.vn/en/chuong-trinh-tu-tai-my-tai-tis/
+16:27:26	Warning: 	Found for https://tis.edu.vn/vi/chuong-trinh-tu-tai-my-tai-tis/
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/vi/chuong-trinh-tu-tai-my-tai-tis/ to https://tis.edu.vn/chuong-trinh-tu-tai-my-tai-tis/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=56848
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=56848 to https://tis.edu.vn/en/hoat-dong-ngoai-khoa/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=58706
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=58706 to https://tis.edu.vn/en/summer-camp/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3117
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=3117 to https://tis.edu.vn/en/quy-trinh-tuyen-sinh/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3123
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=3123 to https://tis.edu.vn/en/chinh-sach-hoc-phi/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3188
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=3188 to https://tis.edu.vn/en/noi-tru/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=56755
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=56755 to https://tis.edu.vn/en/gioi-thieu-ocl/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=56872
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=56872 to https://tis.edu.vn/en/student-council-2/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=56877
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=56877 to https://tis.edu.vn/en/cau-lac-bo/
+16:27:26	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=56890
+16:27:26	Warning: 	File has moved from https://tis.edu.vn/en/?p=56890 to https://tis.edu.vn/en/chan-dung-tisers/
+16:30:41	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=39396
+16:30:41	Warning: 	File has moved from https://tis.edu.vn/en/?p=39396 to https://tis.edu.vn/en/khao-sat-phu-huynh/
+16:30:41	Warning: 	Found for https://tis.edu.vn/vi/khao-sat-phu-huynh/
+16:30:41	Warning: 	File has moved from https://tis.edu.vn/vi/khao-sat-phu-huynh/ to https://tis.edu.vn/khao-sat-phu-huynh/
+16:30:41	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3177
+16:30:41	Warning: 	File has moved from https://tis.edu.vn/en/?p=3177 to https://tis.edu.vn/en/thuc-don-mon-an/
+16:30:41	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3128
+16:30:41	Warning: 	File has moved from https://tis.edu.vn/en/?p=3128 to https://tis.edu.vn/en/lich-nam-hoc-tis/
+16:30:41	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=8
+16:30:41	Warning: 	File has moved from https://tis.edu.vn/en/?p=8 to https://tis.edu.vn/en/lien-he/
+16:30:41	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=3197
+16:30:41	Warning: 	File has moved from https://tis.edu.vn/en/?p=3197 to https://tis.edu.vn/en/phu-huynh/
+16:30:41	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=60003
+16:30:41	Warning: 	File has moved from https://tis.edu.vn/en/?p=60003 to https://tis.edu.vn/en/hoc-bong-tai-nang-toa-sang-tu-tai-my/
+16:30:41	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57992
+16:30:41	Warning: 	File has moved from https://tis.edu.vn/en/?p=57992 to https://tis.edu.vn/en/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/
+16:30:45	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57730
+16:30:45	Warning: 	File has moved from https://tis.edu.vn/en/?p=57730 to https://tis.edu.vn/en/ve-noi-ghi-dau-lich-su-kinh-thanh-hue-mot-hanh-trinh-kham-pha-va-hoc-hoi/
+16:30:46	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57720
+16:30:46	Warning: 	File has moved from https://tis.edu.vn/en/?p=57720 to https://tis.edu.vn/en/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/
+16:30:49	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57604
+16:30:49	Warning: 	File has moved from https://tis.edu.vn/en/?p=57604 to https://tis.edu.vn/en/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/
+16:30:50	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57587
+16:30:50	Warning: 	File has moved from https://tis.edu.vn/en/?p=57587 to https://tis.edu.vn/en/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/
+16:31:44	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57579
+16:31:44	Warning: 	File has moved from https://tis.edu.vn/en/?p=57579 to https://tis.edu.vn/en/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/
+16:31:48	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57563
+16:31:48	Warning: 	File has moved from https://tis.edu.vn/en/?p=57563 to https://tis.edu.vn/en/ngay-hoi-kick-off-tis-summer-camp-2025/
+16:31:50	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57543
+16:31:50	Warning: 	File has moved from https://tis.edu.vn/en/?p=57543 to https://tis.edu.vn/en/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/
+16:31:53	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=60571
+16:31:53	Warning: 	File has moved from https://tis.edu.vn/en/?p=60571 to https://tis.edu.vn/en/hoc-bong/
+16:31:53	Error: 	"Not Found" (404) at link https://tis.edu.vn/wp-content/uploads/2025/04/125-trâii-scaled.jpg (from https://tis.edu.vn/wp-content/uploads/elementor/css/post-3188.css?ver=1746331825)
+16:31:53	Error: 	"Not Found" (404) at link https://tis.edu.vn/wp-content/uploads/2025/04/Thisâât-ksââ-chââa-cââ-tâÂ¬n-3.png (from https://tis.edu.vn/wp-content/uploads/elementor/css/post-3188.css?ver=1746331825)
+16:32:04	Warning: 	Found for https://tis.edu.vn/category/tuyen-sinh/feed/
+16:32:04	Warning: 	File has moved from https://tis.edu.vn/category/tuyen-sinh/feed/ to https://tis.edu.vn/en/category/tuyen-sinh/feed/
+16:32:05	Warning: 	Found for https://tis.edu.vn/vi/category/tuyen-sinh/
+16:32:05	Warning: 	File has moved from https://tis.edu.vn/vi/category/tuyen-sinh/ to https://tis.edu.vn/category/tuyen-sinh/
+16:33:22	Warning: 	Found for https://tis.edu.vn/truong-quoc-te-tis-uu-dai-lai-suat-hoc-phi-0/
+16:33:22	Warning: 	File has moved from https://tis.edu.vn/truong-quoc-te-tis-uu-dai-lai-suat-hoc-phi-0/ to https://tis.edu.vn/en/truong-quoc-te-tis-uu-dai-lai-suat-hoc-phi-0/
+16:33:46	Warning: 	Found for https://tis.edu.vn/category/video/feed/
+16:33:46	Warning: 	File has moved from https://tis.edu.vn/category/video/feed/ to https://tis.edu.vn/en/category/video/feed/
+16:33:46	Warning: 	Found for https://tis.edu.vn/vi/category/video/
+16:33:46	Warning: 	File has moved from https://tis.edu.vn/vi/category/video/ to https://tis.edu.vn/category/video/
+16:34:20	Warning: 	Found for https://tis.edu.vn/category/ocl/feed/
+16:34:20	Warning: 	File has moved from https://tis.edu.vn/category/ocl/feed/ to https://tis.edu.vn/en/category/ocl/feed/
+16:34:20	Warning: 	Found for https://tis.edu.vn/vi/category/ocl/
+16:34:20	Warning: 	File has moved from https://tis.edu.vn/vi/category/ocl/ to https://tis.edu.vn/category/ocl/
+16:34:36	Warning: 	Found for https://tis.edu.vn/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/feed/
+16:34:36	Warning: 	File has moved from https://tis.edu.vn/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/feed/ to https://tis.edu.vn/en/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/feed/
+16:34:36	Warning: 	Found for https://tis.edu.vn/?p=57601
+16:34:36	Warning: 	File has moved from https://tis.edu.vn/?p=57601 to https://tis.edu.vn/en/?p=57601
+16:34:36	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh%2F (from https://tis.edu.vn/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/)
+16:34:36	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fchuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh%2F&format=xml (from https://tis.edu.vn/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/)
+16:34:36	Warning: 	Found for https://tis.edu.vn/vi/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/
+16:34:36	Warning: 	File has moved from https://tis.edu.vn/vi/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/ to https://tis.edu.vn/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/
+16:34:37	Warning: 	Found for https://tis.edu.vn/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/feed/
+16:34:37	Warning: 	File has moved from https://tis.edu.vn/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/feed/ to https://tis.edu.vn/en/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/feed/
+16:34:37	Warning: 	Found for https://tis.edu.vn/?p=57596
+16:34:37	Warning: 	File has moved from https://tis.edu.vn/?p=57596 to https://tis.edu.vn/en/?p=57596
+16:34:37	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh%2F (from https://tis.edu.vn/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/)
+16:34:37	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh%2F&format=xml (from https://tis.edu.vn/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/)
+16:34:37	Warning: 	Found for https://tis.edu.vn/vi/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/
+16:34:37	Warning: 	File has moved from https://tis.edu.vn/vi/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/ to https://tis.edu.vn/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/
+16:34:47	Warning: 	Found for https://tis.edu.vn/vi/category/tin-tuc/page/3/
+16:34:47	Warning: 	File has moved from https://tis.edu.vn/vi/category/tin-tuc/page/3/ to https://tis.edu.vn/category/tin-tuc/page/3/
+16:36:10	Warning: 	Found for https://tis.edu.vn/cuu-tiser-cece-truong-tung-hoc-quan-tri-kinh-doanh-de-ba-me-vui/
+16:36:10	Warning: 	File has moved from https://tis.edu.vn/cuu-tiser-cece-truong-tung-hoc-quan-tri-kinh-doanh-de-ba-me-vui/ to https://tis.edu.vn/en/cuu-tiser-cece-truong-tung-hoc-quan-tri-kinh-doanh-de-ba-me-vui/
+16:36:27	Warning: 	Found for https://tis.edu.vn/vi/category/tin-tuc/page/142/
+16:36:27	Warning: 	File has moved from https://tis.edu.vn/vi/category/tin-tuc/page/142/ to https://tis.edu.vn/category/tin-tuc/page/142/
+16:37:31	Warning: 	Found for https://tis.edu.vn/thong-bao-ve-ngay-to-chuc-le-ky-niem-15-nghi-tet-duong-lich-2015-va-nghi-tet-am-lich-at-mui-2015/
+16:37:31	Warning: 	File has moved from https://tis.edu.vn/thong-bao-ve-ngay-to-chuc-le-ky-niem-15-nghi-tet-duong-lich-2015-va-nghi-tet-am-lich-at-mui-2015/ to https://tis.edu.vn/en/thong-bao-ve-ngay-to-chuc-le-ky-niem-15-nghi-tet-duong-lich-2015-va-nghi-tet-am-lich-at-mui-2015/
+16:37:41	Warning: 	Found for https://tis.edu.vn/category/tin-tuc/page/143/
+16:37:41	Warning: 	File has moved from https://tis.edu.vn/category/tin-tuc/page/143/ to https://tis.edu.vn/en/category/tin-tuc/page/143/
+16:37:52	Warning: 	Found for https://tis.edu.vn/hop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me/feed/
+16:37:52	Warning: 	File has moved from https://tis.edu.vn/hop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me/feed/ to https://tis.edu.vn/en/hop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me/feed/
+16:37:52	Warning: 	Found for https://tis.edu.vn/?p=57425
+16:37:52	Warning: 	File has moved from https://tis.edu.vn/?p=57425 to https://tis.edu.vn/en/?p=57425
+16:37:52	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me%2F (from https://tis.edu.vn/hop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me/)
+16:37:52	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me%2F&format=xml (from https://tis.edu.vn/hop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me/)
+16:37:52	Warning: 	Found for https://tis.edu.vn/vi/hop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me/
+16:37:52	Warning: 	File has moved from https://tis.edu.vn/vi/hop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me/ to https://tis.edu.vn/hop-phu-huynh-hk1-chinh-con-se-la-nguoi-bao-cao-ket-qua-hoc-tap-voi-ba-me/
+16:37:53	Warning: 	Found for https://tis.edu.vn/?p=57401
+16:37:53	Warning: 	File has moved from https://tis.edu.vn/?p=57401 to https://tis.edu.vn/en/?p=57401
+16:37:53	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Ftisers-tham-gia-kham-suc-khoe-dinh-ky-dam-bao-su-phat-trien-toan-dien%2F (from https://tis.edu.vn/tisers-tham-gia-kham-suc-khoe-dinh-ky-dam-bao-su-phat-trien-toan-dien/)
+16:37:53	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Ftisers-tham-gia-kham-suc-khoe-dinh-ky-dam-bao-su-phat-trien-toan-dien%2F&format=xml (from https://tis.edu.vn/tisers-tham-gia-kham-suc-khoe-dinh-ky-dam-bao-su-phat-trien-toan-dien/)
+16:37:53	Warning: 	Found for https://tis.edu.vn/vi/tisers-tham-gia-kham-suc-khoe-dinh-ky-dam-bao-su-phat-trien-toan-dien/
+16:37:53	Warning: 	File has moved from https://tis.edu.vn/vi/tisers-tham-gia-kham-suc-khoe-dinh-ky-dam-bao-su-phat-trien-toan-dien/ to https://tis.edu.vn/tisers-tham-gia-kham-suc-khoe-dinh-ky-dam-bao-su-phat-trien-toan-dien/
+16:37:54	Warning: 	Found for https://tis.edu.vn/hop-phu-huynh-dau-hoc-ky-ii/feed/
+16:37:54	Warning: 	File has moved from https://tis.edu.vn/hop-phu-huynh-dau-hoc-ky-ii/feed/ to https://tis.edu.vn/en/hop-phu-huynh-dau-hoc-ky-ii/feed/
+16:37:54	Warning: 	Found for https://tis.edu.vn/?p=57362
+16:37:54	Warning: 	File has moved from https://tis.edu.vn/?p=57362 to https://tis.edu.vn/en/?p=57362
+16:37:54	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhop-phu-huynh-dau-hoc-ky-ii%2F (from https://tis.edu.vn/hop-phu-huynh-dau-hoc-ky-ii/)
+16:37:54	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhop-phu-huynh-dau-hoc-ky-ii%2F&format=xml (from https://tis.edu.vn/hop-phu-huynh-dau-hoc-ky-ii/)
+16:37:54	Warning: 	Found for https://tis.edu.vn/vi/hop-phu-huynh-dau-hoc-ky-ii/
+16:37:54	Warning: 	File has moved from https://tis.edu.vn/vi/hop-phu-huynh-dau-hoc-ky-ii/ to https://tis.edu.vn/hop-phu-huynh-dau-hoc-ky-ii/
+16:37:56	Warning: 	Found for https://tis.edu.vn/hoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua/feed/
+16:37:56	Warning: 	File has moved from https://tis.edu.vn/hoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua/feed/ to https://tis.edu.vn/en/hoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua/feed/
+16:37:56	Warning: 	Found for https://tis.edu.vn/?p=57242
+16:37:56	Warning: 	File has moved from https://tis.edu.vn/?p=57242 to https://tis.edu.vn/en/?p=57242
+16:37:56	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua%2F (from https://tis.edu.vn/hoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua/)
+16:37:56	Error: 	"Not Found" (404) at link https://tis.edu.vn/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftis.edu.vn%2Fhoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua%2F&format=xml (from https://tis.edu.vn/hoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua/)
+16:37:56	Warning: 	Found for https://tis.edu.vn/vi/hoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua/
+16:37:56	Warning: 	File has moved from https://tis.edu.vn/vi/hoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua/ to https://tis.edu.vn/hoi-xuan-tis-2024-hanh-trinh-tim-lai-ky-uc-tet-xua/
+16:39:09	Warning: 	Found for https://tis.edu.vn/vi/category/su-kien-tai-tis/page/3/
+16:39:09	Warning: 	File has moved from https://tis.edu.vn/vi/category/su-kien-tai-tis/page/3/ to https://tis.edu.vn/category/su-kien-tai-tis/page/3/
+16:40:05	Warning: 	Found for https://tis.edu.vn/le-tuu-truong-mo-ra-trang-moi-day-hua-hen-cho-nam-hoc-2024-2025/
+16:40:05	Warning: 	File has moved from https://tis.edu.vn/le-tuu-truong-mo-ra-trang-moi-day-hua-hen-cho-nam-hoc-2024-2025/ to https://tis.edu.vn/en/le-tuu-truong-mo-ra-trang-moi-day-hua-hen-cho-nam-hoc-2024-2025/
+16:40:33	Warning: 	Found for https://tis.edu.vn/vi/category/su-kien-tai-tis/page/26/
+16:40:33	Warning: 	File has moved from https://tis.edu.vn/vi/category/su-kien-tai-tis/page/26/ to https://tis.edu.vn/category/su-kien-tai-tis/page/26/
+16:42:05	Warning: 	Found for https://tis.edu.vn/category/su-kien-tai-tis/page/27/
+16:42:05	Warning: 	File has moved from https://tis.edu.vn/category/su-kien-tai-tis/page/27/ to https://tis.edu.vn/en/category/su-kien-tai-tis/page/27/
+16:42:17	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=48021
+16:42:17	Warning: 	File has moved from https://tis.edu.vn/en/?p=48021 to https://tis.edu.vn/en/cuoc-song-tis-nam-chau-kevin-nguyen-dang-duy-tis-da-cho-duy-moi-truong-hoc-tap-va-giao-tiep-mang-tinh-quoc-te/
+16:42:22	Warning: 	Found for https://tis.edu.vn/vi/cuoc-song-tis-nam-chau-kevin-nguyen-dang-duy-tis-da-cho-duy-moi-truong-hoc-tap-va-giao-tiep-mang-tinh-quoc-te/
+16:42:22	Warning: 	File has moved from https://tis.edu.vn/vi/cuoc-song-tis-nam-chau-kevin-nguyen-dang-duy-tis-da-cho-duy-moi-truong-hoc-tap-va-giao-tiep-mang-tinh-quoc-te/ to https://tis.edu.vn/cuoc-song-tis-nam-chau-kevin-nguyen-dang-duy-tis-da-cho-duy-moi-truong-hoc-tap-va-giao-tiep-mang-tinh-quoc-te/
+16:42:23	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57386
+16:42:23	Warning: 	File has moved from https://tis.edu.vn/en/?p=57386 to https://tis.edu.vn/en/cuu-tiser-bella-va-hanh-trinh-gia-nhap-dai-hoc-la-trobe/
+16:42:23	Warning: 	Found for https://tis.edu.vn/vi/cuu-tiser-bella-va-hanh-trinh-gia-nhap-dai-hoc-la-trobe/
+16:42:23	Warning: 	File has moved from https://tis.edu.vn/vi/cuu-tiser-bella-va-hanh-trinh-gia-nhap-dai-hoc-la-trobe/ to https://tis.edu.vn/cuu-tiser-bella-va-hanh-trinh-gia-nhap-dai-hoc-la-trobe/
+16:42:25	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57388
+16:42:25	Warning: 	File has moved from https://tis.edu.vn/en/?p=57388 to https://tis.edu.vn/en/cuu-tiser-dua-con-ve-noi-ba-da-lon-len/
+16:42:25	Warning: 	Found for https://tis.edu.vn/vi/cuu-tiser-dua-con-ve-noi-ba-da-lon-len/
+16:42:25	Warning: 	File has moved from https://tis.edu.vn/vi/cuu-tiser-dua-con-ve-noi-ba-da-lon-len/ to https://tis.edu.vn/cuu-tiser-dua-con-ve-noi-ba-da-lon-len/
+16:42:28	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57391
+16:42:28	Warning: 	File has moved from https://tis.edu.vn/en/?p=57391 to https://tis.edu.vn/en/hanh-trinh-hoc-thuat-den-yale-cua-cuu-tiser-dr-sally-do-ai-quyen/
+16:42:35	Warning: 	Found for https://tis.edu.vn/vi/hanh-trinh-hoc-thuat-den-yale-cua-cuu-tiser-dr-sally-do-ai-quyen/
+16:42:35	Warning: 	File has moved from https://tis.edu.vn/vi/hanh-trinh-hoc-thuat-den-yale-cua-cuu-tiser-dr-sally-do-ai-quyen/ to https://tis.edu.vn/hanh-trinh-hoc-thuat-den-yale-cua-cuu-tiser-dr-sally-do-ai-quyen/
+16:42:38	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57351
+16:42:38	Warning: 	File has moved from https://tis.edu.vn/en/?p=57351 to https://tis.edu.vn/en/hanh-trinh-tu-cuu-tiser-den-dai-hoc-cong-lap-top-1-hoa-ky/
+16:42:38	Warning: 	Found for https://tis.edu.vn/vi/hanh-trinh-tu-cuu-tiser-den-dai-hoc-cong-lap-top-1-hoa-ky/
+16:42:38	Warning: 	File has moved from https://tis.edu.vn/vi/hanh-trinh-tu-cuu-tiser-den-dai-hoc-cong-lap-top-1-hoa-ky/ to https://tis.edu.vn/hanh-trinh-tu-cuu-tiser-den-dai-hoc-cong-lap-top-1-hoa-ky/
+16:42:41	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57381
+16:42:41	Warning: 	File has moved from https://tis.edu.vn/en/?p=57381 to https://tis.edu.vn/en/zane-nguyen-nhat-linh-kien-truc-su-tai-nang-buoc-ra-tu-ngoi-truong-tis/
+16:42:46	Warning: 	Found for https://tis.edu.vn/vi/zane-nguyen-nhat-linh-kien-truc-su-tai-nang-buoc-ra-tu-ngoi-truong-tis/
+16:42:46	Warning: 	File has moved from https://tis.edu.vn/vi/zane-nguyen-nhat-linh-kien-truc-su-tai-nang-buoc-ra-tu-ngoi-truong-tis/ to https://tis.edu.vn/zane-nguyen-nhat-linh-kien-truc-su-tai-nang-buoc-ra-tu-ngoi-truong-tis/
+16:42:48	Warning: 	Found for https://tis.edu.vn/hoc-bong-tai-nang-toa-sang-tu-tai-my/?noamp=mobile
+16:42:48	Warning: 	File has moved from https://tis.edu.vn/hoc-bong-tai-nang-toa-sang-tu-tai-my/?noamp=mobile to https://tis.edu.vn/en/hoc-bong-tai-nang-toa-sang-tu-tai-my/?noamp=mobile
+16:42:48	Warning: 	Found for https://tis.edu.vn/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/?noamp=mobile
+16:42:48	Warning: 	File has moved from https://tis.edu.vn/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/?noamp=mobile to https://tis.edu.vn/en/nhin-lai-hanh-trinh-immersion-trip-cua-tisers/?noamp=mobile
+16:42:48	Warning: 	Found for https://tis.edu.vn/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/?noamp=mobile
+16:42:48	Warning: 	File has moved from https://tis.edu.vn/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/?noamp=mobile to https://tis.edu.vn/en/trai-nghiem-trai-he-singapore-cung-tis-summer-camp-2025/?noamp=mobile
+16:42:48	Warning: 	Found for https://tis.edu.vn/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/?noamp=mobile
+16:42:48	Warning: 	File has moved from https://tis.edu.vn/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/?noamp=mobile to https://tis.edu.vn/en/hoc-bong-20-000-usd-danh-rieng-cho-tisers-tu-dai-hoc-bridgeport-hoa-ky/?noamp=mobile
+16:42:48	Warning: 	Found for https://tis.edu.vn/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/?noamp=mobile
+16:42:48	Warning: 	File has moved from https://tis.edu.vn/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/?noamp=mobile to https://tis.edu.vn/en/san-khau-hoa-tac-pham-van-hoc-noi-van-chuong-thoi-hon-vao-doi-thuc/?noamp=mobile
+16:42:48	Warning: 	Found for https://tis.edu.vn/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/?noamp=mobile
+16:42:48	Warning: 	File has moved from https://tis.edu.vn/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/?noamp=mobile to https://tis.edu.vn/en/tro-chuyen-cung-chuyen-gia-tien-si-tam-ly-bui-hong-quan/?noamp=mobile
+16:42:48	Warning: 	Found for https://tis.edu.vn/ngay-hoi-kick-off-tis-summer-camp-2025/?noamp=mobile
+16:42:48	Warning: 	File has moved from https://tis.edu.vn/ngay-hoi-kick-off-tis-summer-camp-2025/?noamp=mobile to https://tis.edu.vn/en/ngay-hoi-kick-off-tis-summer-camp-2025/?noamp=mobile
+16:42:48	Warning: 	Found for https://tis.edu.vn/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/?noamp=mobile
+16:42:48	Warning: 	File has moved from https://tis.edu.vn/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/?noamp=mobile to https://tis.edu.vn/en/tis-reflective-immersion-program-2025-hanh-trinh-kham-pha-ket-noi-va-truong-thanh/?noamp=mobile
+16:43:43	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57601
+16:43:43	Warning: 	File has moved from https://tis.edu.vn/en/?p=57601 to https://tis.edu.vn/en/chuc-mung-kathy-trau-gia-ky-dat-giai-hoc-sinh-gioi-cap-thanh-pho-mon-tieng-anh/
+16:43:45	Warning: 	Moved Permanently for https://tis.edu.vn/en/?p=57596
+16:43:45	Warning: 	File has moved from https://tis.edu.vn/en/?p=57596 to https://tis.edu.vn/en/hanh-trinh-vuon-toi-hoc-bong-tien-si-toan-phan-o-tuoi-24-cua-cuu-tiser-lu-yen-thanh/
+16:43:48	Warning: 	Found for https://tis.edu.vn/vi/category/tin-tuc/page/2/
+16:43:48	Warning: 	File has moved from https://tis.edu.vn/vi/category/tin-tuc/page/2/ to https://tis.edu.vn/category/tin-tuc/page/2/
+16:45:25	Error: 	Exit requested by shell or user
